@@ -1,1 +1,4 @@
-punkt brown wordnet conll2000 
+punkt 
+brown 
+wordnet 
+conll2000 
