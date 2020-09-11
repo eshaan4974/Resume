@@ -1,1 +1,2 @@
-perluniprops
+wordnet
+stopwords
