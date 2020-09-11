@@ -1,3 +1,1 @@
-stopwords
-PorterStemmer
-WordNetLemmatizer
+punkt brown wordnet conll2000 
