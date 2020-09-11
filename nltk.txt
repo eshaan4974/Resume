@@ -1,4 +1,1 @@
-punkt 
-brown 
-wordnet 
-conll2000 
+perluniprops
